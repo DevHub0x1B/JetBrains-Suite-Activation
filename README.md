@@ -1,1 +1,1 @@
-# IntelliJ-Suite-Activation
+# JetBrains-Suite-Activation
